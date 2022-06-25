@@ -121,8 +121,8 @@ console.log('-------------')
 
 
 // округленное значение числа 89.279 → myRound
-// var num = 89.279;
-var myRound = Math.round(89.279);
+var num = 89.279;
+var myRound = Math.round(num);
 console.log('myRound:',myRound)
 
 console.log('-------------')
